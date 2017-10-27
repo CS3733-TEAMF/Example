@@ -1,6 +1,6 @@
-public class Hello_teamf 
+class Hello_teamf 
 {
-   public staic void main(String[] args) 
+   public static void main(String[] args) 
    {
      System.out.println("This is willis");
      System.out.println("This is Talal");
