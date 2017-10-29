@@ -10,6 +10,9 @@ public class Hello_teamf
      System.out.println("This is Benjamin");
      System.out.println("This is Andrew");
      System.out.println("This is Griffin");
-     System.out.println("Chen has a bike");
+     System.out.println("This is Binam");
+     System.out.println("This is Steph");
+     System.out.println("This is Nikos");
+     System.out.println("This is Luke");
    }
 }
